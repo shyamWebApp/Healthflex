@@ -1,2 +1,1 @@
-# Healthflex
-React Native Assignment 
+React Native Assigment- S Shyam Sankar
